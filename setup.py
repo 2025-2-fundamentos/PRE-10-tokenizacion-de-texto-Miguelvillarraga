@@ -10,5 +10,6 @@ setup(
         "pytest",
         "nltk",
         "ipykernel",
+        "python-dotenv",
     ],
 )
